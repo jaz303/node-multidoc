@@ -102,3 +102,5 @@ function parse(str) {
     return doc;
 
 }
+
+module.exports = parse;
