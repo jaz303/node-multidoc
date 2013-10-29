@@ -1,0 +1,22 @@
+{
+  "name": "multidoc",
+  "version": "0.0.0",
+  "description": "Multidoc parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jaz303/node-multidoc.git"
+  },
+  "keywords": [
+    "multidoc",
+    "parser"
+  ],
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "~2.1.3"
+  }
+}
