@@ -1,6 +1,6 @@
 # node-multidoc
 
-This is a port of a PHP library I wrote years ago for parsing what I call 'multidocs', A `multidoc` consists of a YAML preamble plus a sequence of typed content blocks, each of which may have an argument list in the form of key/value pairs. It looks like this:
+This is a port of a PHP library I wrote years ago for parsing what I call 'multidocs', a simple plain text document format designed for writing blog posts. A `multidoc` consists of a YAML preamble plus a sequence of typed content blocks, each of which may have an argument list in the form of key/value pairs. It looks like this:
 
     title: My First Post
     publish_date: 2013-10-29T21:30
